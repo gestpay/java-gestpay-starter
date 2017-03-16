@@ -8,9 +8,9 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for CustomerDetail complex type.
+ * <p>Classe Java per CustomerDetail complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>Il seguente frammento di schema specifica il contenuto previsto contenuto in questa classe.
  * 
  * <pre>
  * &lt;complexType name="CustomerDetail">
@@ -100,7 +100,7 @@ public class CustomerDetail {
     protected CustomerSocial social;
 
     /**
-     * Gets the value of the profileID property.
+     * Recupera il valore della proprietà profileID.
      * 
      * @return
      *     possible object is
@@ -112,7 +112,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the profileID property.
+     * Imposta il valore della proprietà profileID.
      * 
      * @param value
      *     allowed object is
@@ -124,7 +124,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the merchantCustomerID property.
+     * Recupera il valore della proprietà merchantCustomerID.
      * 
      * @return
      *     possible object is
@@ -136,7 +136,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the merchantCustomerID property.
+     * Imposta il valore della proprietà merchantCustomerID.
      * 
      * @param value
      *     allowed object is
@@ -148,7 +148,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the firstName property.
+     * Recupera il valore della proprietà firstName.
      * 
      * @return
      *     possible object is
@@ -160,7 +160,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the firstName property.
+     * Imposta il valore della proprietà firstName.
      * 
      * @param value
      *     allowed object is
@@ -172,7 +172,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the middleName property.
+     * Recupera il valore della proprietà middleName.
      * 
      * @return
      *     possible object is
@@ -184,7 +184,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the middleName property.
+     * Imposta il valore della proprietà middleName.
      * 
      * @param value
      *     allowed object is
@@ -196,7 +196,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the lastname property.
+     * Recupera il valore della proprietà lastname.
      * 
      * @return
      *     possible object is
@@ -208,7 +208,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the lastname property.
+     * Imposta il valore della proprietà lastname.
      * 
      * @param value
      *     allowed object is
@@ -220,7 +220,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the primaryEmail property.
+     * Recupera il valore della proprietà primaryEmail.
      * 
      * @return
      *     possible object is
@@ -232,7 +232,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the primaryEmail property.
+     * Imposta il valore della proprietà primaryEmail.
      * 
      * @param value
      *     allowed object is
@@ -244,7 +244,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the secondaryEmail property.
+     * Recupera il valore della proprietà secondaryEmail.
      * 
      * @return
      *     possible object is
@@ -256,7 +256,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the secondaryEmail property.
+     * Imposta il valore della proprietà secondaryEmail.
      * 
      * @param value
      *     allowed object is
@@ -268,7 +268,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the primaryPhone property.
+     * Recupera il valore della proprietà primaryPhone.
      * 
      * @return
      *     possible object is
@@ -280,7 +280,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the primaryPhone property.
+     * Imposta il valore della proprietà primaryPhone.
      * 
      * @param value
      *     allowed object is
@@ -292,7 +292,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the secondaryPhone property.
+     * Recupera il valore della proprietà secondaryPhone.
      * 
      * @return
      *     possible object is
@@ -304,7 +304,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the secondaryPhone property.
+     * Imposta il valore della proprietà secondaryPhone.
      * 
      * @param value
      *     allowed object is
@@ -316,7 +316,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the dateOfBirth property.
+     * Recupera il valore della proprietà dateOfBirth.
      * 
      * @return
      *     possible object is
@@ -328,7 +328,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the dateOfBirth property.
+     * Imposta il valore della proprietà dateOfBirth.
      * 
      * @param value
      *     allowed object is
@@ -340,7 +340,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the gender property.
+     * Recupera il valore della proprietà gender.
      * 
      * @return
      *     possible object is
@@ -352,7 +352,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the gender property.
+     * Imposta il valore della proprietà gender.
      * 
      * @param value
      *     allowed object is
@@ -364,7 +364,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the socialSecurityNumber property.
+     * Recupera il valore della proprietà socialSecurityNumber.
      * 
      * @return
      *     possible object is
@@ -376,7 +376,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the socialSecurityNumber property.
+     * Imposta il valore della proprietà socialSecurityNumber.
      * 
      * @param value
      *     allowed object is
@@ -388,7 +388,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the company property.
+     * Recupera il valore della proprietà company.
      * 
      * @return
      *     possible object is
@@ -400,7 +400,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the company property.
+     * Imposta il valore della proprietà company.
      * 
      * @param value
      *     allowed object is
@@ -412,7 +412,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the createdAtDate property.
+     * Recupera il valore della proprietà createdAtDate.
      * 
      * @return
      *     possible object is
@@ -424,7 +424,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the createdAtDate property.
+     * Imposta il valore della proprietà createdAtDate.
      * 
      * @param value
      *     allowed object is
@@ -436,7 +436,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the verifiedEmail property.
+     * Recupera il valore della proprietà verifiedEmail.
      * 
      * @return
      *     possible object is
@@ -448,7 +448,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the verifiedEmail property.
+     * Imposta il valore della proprietà verifiedEmail.
      * 
      * @param value
      *     allowed object is
@@ -460,7 +460,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the accountType property.
+     * Recupera il valore della proprietà accountType.
      * 
      * @return
      *     possible object is
@@ -472,7 +472,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the accountType property.
+     * Imposta il valore della proprietà accountType.
      * 
      * @param value
      *     allowed object is
@@ -484,7 +484,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Gets the value of the social property.
+     * Recupera il valore della proprietà social.
      * 
      * @return
      *     possible object is
@@ -496,7 +496,7 @@ public class CustomerDetail {
     }
 
     /**
-     * Sets the value of the social property.
+     * Imposta il valore della proprietà social.
      * 
      * @param value
      *     allowed object is

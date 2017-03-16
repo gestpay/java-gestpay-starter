@@ -3,7 +3,7 @@ package it.gestpay.wscryptdecrypt;
 /**
  * Created by michelenasti on 15/03/17.
  */
-public class EncryptResult {
+public class EncryptResponse {
 
   private String transactionType;
   private String transactionResult;
@@ -49,5 +49,17 @@ public class EncryptResult {
 
   public void setErrorDescription(String errorDescription) {
     this.errorDescription = errorDescription;
+  }
+
+
+  @Override
+  public String toString() {
+    return "EncryptResponse{" +
+        "transactionType='" + transactionType + '\'' +
+        ", transactionResult='" + transactionResult + '\'' +
+        ", cryptDecryptString='" + cryptDecryptString + '\'' +
+        ", errorCode='" + errorCode + '\'' +
+        ", errorDescription='" + errorDescription + '\'' +
+        '}';
   }
 }

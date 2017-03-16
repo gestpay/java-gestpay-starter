@@ -29,7 +29,7 @@
                 <div class="card-content">
                     <div class="media">
                         <div class="media-content">
-                            <form action="/pay.jsp" method="POST">
+                            <form action="/pay" method="POST">
                                 <input type="hidden" name="item" value="two pineapples">
                                 <input type="hidden" name="price" value="15">
                                 <input class="button is-primary is-clearfix is-pulled-right" type="submit" value="Buy" />
@@ -55,7 +55,7 @@
                 <div class="card-content">
                     <div class="media">
                         <div class="media-content">
-                            <form action="/pay.jsp" method="POST">
+                            <form action="/pay" method="POST">
                                 <input type="hidden" name="item" value="Church on Lake">
                                 <input type="hidden" name="price" value="75">
                                 <input class="button is-primary is-clearfix is-pulled-right" type="submit" value="Buy" />
@@ -81,7 +81,7 @@
                 <div class="card-content">
                     <div class="media">
                         <div class="media-content">
-                            <form action="/pay.jsp" method="POST">
+                            <form action="/pay" method="POST">
                                 <input type="hidden" name="item" value="Old Computer" />
                                 <input type="hidden" name="price" value="20" />
                                 <input class="button is-primary is-clearfix is-pulled-right" type="submit" value="Buy" />

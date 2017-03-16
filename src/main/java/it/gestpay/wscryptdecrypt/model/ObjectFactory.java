@@ -38,83 +38,11 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link DecryptResponse.DecryptResult }
+     * Create an instance of {@link DecryptResponse }
      * 
      */
-    public DecryptResponse.DecryptResult createDecryptResponseDecryptResult() {
-        return new DecryptResponse.DecryptResult();
-    }
-
-    /**
-     * Create an instance of {@link PaymentTypes }
-     * 
-     */
-    public PaymentTypes createPaymentTypes() {
-        return new PaymentTypes();
-    }
-
-    /**
-     * Create an instance of {@link CustomerSocial }
-     * 
-     */
-    public CustomerSocial createCustomerSocial() {
-        return new CustomerSocial();
-    }
-
-    /**
-     * Create an instance of {@link RedCustomInfo }
-     * 
-     */
-    public RedCustomInfo createRedCustomInfo() {
-        return new RedCustomInfo();
-    }
-
-    /**
-     * Create an instance of {@link RedShippingInfo }
-     * 
-     */
-    public RedShippingInfo createRedShippingInfo() {
-        return new RedShippingInfo();
-    }
-
-    /**
-     * Create an instance of {@link Encrypt }
-     * 
-     */
-    public Encrypt createEncrypt() {
-        return new Encrypt();
-    }
-
-    /**
-     * Create an instance of {@link ShippingLine }
-     * 
-     */
-    public ShippingLine createShippingLine() {
-        return new ShippingLine();
-    }
-
-    /**
-     * Create an instance of {@link ShippingDetails }
-     * 
-     */
-    public ShippingDetails createShippingDetails() {
-        return new ShippingDetails();
-    }
-
-    /**
-     * Create an instance of {@link RedCustomerData }
-     * 
-     */
-    public RedCustomerData createRedCustomerData() {
-        return new RedCustomerData();
-    }
-
-    /**
-     * Create an instance of {@link ArrayOfDiscountCode }
-     * 
-     */
-    public ArrayOfDiscountCode createArrayOfDiscountCode() {
-        return new ArrayOfDiscountCode();
+    public DecryptResponse createDecryptResponse() {
+        return new DecryptResponse();
     }
 
     /**
@@ -126,91 +54,11 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link DecryptResponse }
+     * Create an instance of {@link DecryptResponse.DecryptResult }
      * 
      */
-    public DecryptResponse createDecryptResponse() {
-        return new DecryptResponse();
-    }
-
-    /**
-     * Create an instance of {@link BillingAddress }
-     * 
-     */
-    public BillingAddress createBillingAddress() {
-        return new BillingAddress();
-    }
-
-    /**
-     * Create an instance of {@link RedBillingInfo }
-     * 
-     */
-    public RedBillingInfo createRedBillingInfo() {
-        return new RedBillingInfo();
-    }
-
-    /**
-     * Create an instance of {@link ConselCustomerInfo }
-     * 
-     */
-    public ConselCustomerInfo createConselCustomerInfo() {
-        return new ConselCustomerInfo();
-    }
-
-    /**
-     * Create an instance of {@link ProductDetail }
-     * 
-     */
-    public ProductDetail createProductDetail() {
-        return new ProductDetail();
-    }
-
-    /**
-     * Create an instance of {@link CustomerDetail }
-     * 
-     */
-    public CustomerDetail createCustomerDetail() {
-        return new CustomerDetail();
-    }
-
-    /**
-     * Create an instance of {@link RedItem }
-     * 
-     */
-    public RedItem createRedItem() {
-        return new RedItem();
-    }
-
-    /**
-     * Create an instance of {@link RedItems }
-     * 
-     */
-    public RedItems createRedItems() {
-        return new RedItems();
-    }
-
-    /**
-     * Create an instance of {@link RedCustomerInfo }
-     * 
-     */
-    public RedCustomerInfo createRedCustomerInfo() {
-        return new RedCustomerInfo();
-    }
-
-    /**
-     * Create an instance of {@link ShippingAddress }
-     * 
-     */
-    public ShippingAddress createShippingAddress() {
-        return new ShippingAddress();
-    }
-
-    /**
-     * Create an instance of {@link FraudPrevention }
-     * 
-     */
-    public FraudPrevention createFraudPrevention() {
-        return new FraudPrevention();
+    public DecryptResponse.DecryptResult createDecryptResponseDecryptResult() {
+        return new DecryptResponse.DecryptResult();
     }
 
     /**
@@ -222,6 +70,30 @@ public class ObjectFactory {
     }
 
     /**
+     * Create an instance of {@link Encrypt }
+     * 
+     */
+    public Encrypt createEncrypt() {
+        return new Encrypt();
+    }
+
+    /**
+     * Create an instance of {@link ShippingDetails }
+     * 
+     */
+    public ShippingDetails createShippingDetails() {
+        return new ShippingDetails();
+    }
+
+    /**
+     * Create an instance of {@link PaymentTypes }
+     * 
+     */
+    public PaymentTypes createPaymentTypes() {
+        return new PaymentTypes();
+    }
+
+    /**
      * Create an instance of {@link PaymentTypeDetail }
      * 
      */
@@ -230,11 +102,59 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link DiscountCode }
+     * Create an instance of {@link RedCustomerInfo }
      * 
      */
-    public DiscountCode createDiscountCode() {
-        return new DiscountCode();
+    public RedCustomerInfo createRedCustomerInfo() {
+        return new RedCustomerInfo();
+    }
+
+    /**
+     * Create an instance of {@link RedShippingInfo }
+     * 
+     */
+    public RedShippingInfo createRedShippingInfo() {
+        return new RedShippingInfo();
+    }
+
+    /**
+     * Create an instance of {@link RedBillingInfo }
+     * 
+     */
+    public RedBillingInfo createRedBillingInfo() {
+        return new RedBillingInfo();
+    }
+
+    /**
+     * Create an instance of {@link RedCustomerData }
+     * 
+     */
+    public RedCustomerData createRedCustomerData() {
+        return new RedCustomerData();
+    }
+
+    /**
+     * Create an instance of {@link RedCustomInfo }
+     * 
+     */
+    public RedCustomInfo createRedCustomInfo() {
+        return new RedCustomInfo();
+    }
+
+    /**
+     * Create an instance of {@link RedItems }
+     * 
+     */
+    public RedItems createRedItems() {
+        return new RedItems();
+    }
+
+    /**
+     * Create an instance of {@link ConselCustomerInfo }
+     * 
+     */
+    public ConselCustomerInfo createConselCustomerInfo() {
+        return new ConselCustomerInfo();
     }
 
     /**
@@ -246,11 +166,11 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link ArrayOfShippingLine }
+     * Create an instance of {@link ProductDetail }
      * 
      */
-    public ArrayOfShippingLine createArrayOfShippingLine() {
-        return new ArrayOfShippingLine();
+    public ProductDetail createProductDetail() {
+        return new ProductDetail();
     }
 
     /**
@@ -259,6 +179,86 @@ public class ObjectFactory {
      */
     public ArrayOfProductDetail createArrayOfProductDetail() {
         return new ArrayOfProductDetail();
+    }
+
+    /**
+     * Create an instance of {@link ShippingLine }
+     * 
+     */
+    public ShippingLine createShippingLine() {
+        return new ShippingLine();
+    }
+
+    /**
+     * Create an instance of {@link CustomerSocial }
+     * 
+     */
+    public CustomerSocial createCustomerSocial() {
+        return new CustomerSocial();
+    }
+
+    /**
+     * Create an instance of {@link DiscountCode }
+     * 
+     */
+    public DiscountCode createDiscountCode() {
+        return new DiscountCode();
+    }
+
+    /**
+     * Create an instance of {@link CustomerDetail }
+     * 
+     */
+    public CustomerDetail createCustomerDetail() {
+        return new CustomerDetail();
+    }
+
+    /**
+     * Create an instance of {@link BillingAddress }
+     * 
+     */
+    public BillingAddress createBillingAddress() {
+        return new BillingAddress();
+    }
+
+    /**
+     * Create an instance of {@link ArrayOfShippingLine }
+     * 
+     */
+    public ArrayOfShippingLine createArrayOfShippingLine() {
+        return new ArrayOfShippingLine();
+    }
+
+    /**
+     * Create an instance of {@link ShippingAddress }
+     * 
+     */
+    public ShippingAddress createShippingAddress() {
+        return new ShippingAddress();
+    }
+
+    /**
+     * Create an instance of {@link RedItem }
+     * 
+     */
+    public RedItem createRedItem() {
+        return new RedItem();
+    }
+
+    /**
+     * Create an instance of {@link FraudPrevention }
+     * 
+     */
+    public FraudPrevention createFraudPrevention() {
+        return new FraudPrevention();
+    }
+
+    /**
+     * Create an instance of {@link ArrayOfDiscountCode }
+     * 
+     */
+    public ArrayOfDiscountCode createArrayOfDiscountCode() {
+        return new ArrayOfDiscountCode();
     }
 
 }

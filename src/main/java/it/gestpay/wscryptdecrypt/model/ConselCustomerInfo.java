@@ -8,9 +8,9 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for ConselCustomerInfo complex type.
+ * <p>Classe Java per ConselCustomerInfo complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>Il seguente frammento di schema specifica il contenuto previsto contenuto in questa classe.
  * 
  * <pre>
  * &lt;complexType name="ConselCustomerInfo">
@@ -136,7 +136,7 @@ public class ConselCustomerInfo {
     protected String monthlyPay;
 
     /**
-     * Gets the value of the surname property.
+     * Recupera il valore della proprietà surname.
      * 
      * @return
      *     possible object is
@@ -148,7 +148,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the surname property.
+     * Imposta il valore della proprietà surname.
      * 
      * @param value
      *     allowed object is
@@ -160,7 +160,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the name property.
+     * Recupera il valore della proprietà name.
      * 
      * @return
      *     possible object is
@@ -172,7 +172,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the name property.
+     * Imposta il valore della proprietà name.
      * 
      * @param value
      *     allowed object is
@@ -184,7 +184,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the taxationCode property.
+     * Recupera il valore della proprietà taxationCode.
      * 
      * @return
      *     possible object is
@@ -196,7 +196,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the taxationCode property.
+     * Imposta il valore della proprietà taxationCode.
      * 
      * @param value
      *     allowed object is
@@ -208,7 +208,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the address property.
+     * Recupera il valore della proprietà address.
      * 
      * @return
      *     possible object is
@@ -220,7 +220,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the address property.
+     * Imposta il valore della proprietà address.
      * 
      * @param value
      *     allowed object is
@@ -232,7 +232,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the city property.
+     * Recupera il valore della proprietà city.
      * 
      * @return
      *     possible object is
@@ -244,7 +244,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the city property.
+     * Imposta il valore della proprietà city.
      * 
      * @param value
      *     allowed object is
@@ -256,7 +256,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the stateCode property.
+     * Recupera il valore della proprietà stateCode.
      * 
      * @return
      *     possible object is
@@ -268,7 +268,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the stateCode property.
+     * Imposta il valore della proprietà stateCode.
      * 
      * @param value
      *     allowed object is
@@ -280,7 +280,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the dateAddress property.
+     * Recupera il valore della proprietà dateAddress.
      * 
      * @return
      *     possible object is
@@ -292,7 +292,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the dateAddress property.
+     * Imposta il valore della proprietà dateAddress.
      * 
      * @param value
      *     allowed object is
@@ -304,7 +304,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the phone property.
+     * Recupera il valore della proprietà phone.
      * 
      * @return
      *     possible object is
@@ -316,7 +316,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the phone property.
+     * Imposta il valore della proprietà phone.
      * 
      * @param value
      *     allowed object is
@@ -328,7 +328,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the mobilePhone property.
+     * Recupera il valore della proprietà mobilePhone.
      * 
      * @return
      *     possible object is
@@ -340,7 +340,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the mobilePhone property.
+     * Imposta il valore della proprietà mobilePhone.
      * 
      * @param value
      *     allowed object is
@@ -352,7 +352,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the municipalCode property.
+     * Recupera il valore della proprietà municipalCode.
      * 
      * @return
      *     possible object is
@@ -364,7 +364,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the municipalCode property.
+     * Imposta il valore della proprietà municipalCode.
      * 
      * @param value
      *     allowed object is
@@ -376,7 +376,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the stateBirthDate property.
+     * Recupera il valore della proprietà stateBirthDate.
      * 
      * @return
      *     possible object is
@@ -388,7 +388,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the stateBirthDate property.
+     * Imposta il valore della proprietà stateBirthDate.
      * 
      * @param value
      *     allowed object is
@@ -400,7 +400,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the birthDate property.
+     * Recupera il valore della proprietà birthDate.
      * 
      * @return
      *     possible object is
@@ -412,7 +412,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the birthDate property.
+     * Imposta il valore della proprietà birthDate.
      * 
      * @param value
      *     allowed object is
@@ -424,7 +424,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the mail property.
+     * Recupera il valore della proprietà mail.
      * 
      * @return
      *     possible object is
@@ -436,7 +436,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the mail property.
+     * Imposta il valore della proprietà mail.
      * 
      * @param value
      *     allowed object is
@@ -448,7 +448,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the municipalDocumentCode property.
+     * Recupera il valore della proprietà municipalDocumentCode.
      * 
      * @return
      *     possible object is
@@ -460,7 +460,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the municipalDocumentCode property.
+     * Imposta il valore della proprietà municipalDocumentCode.
      * 
      * @param value
      *     allowed object is
@@ -472,7 +472,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the employment property.
+     * Recupera il valore della proprietà employment.
      * 
      * @return
      *     possible object is
@@ -484,7 +484,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the employment property.
+     * Imposta il valore della proprietà employment.
      * 
      * @param value
      *     allowed object is
@@ -496,7 +496,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the workingAddress property.
+     * Recupera il valore della proprietà workingAddress.
      * 
      * @return
      *     possible object is
@@ -508,7 +508,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the workingAddress property.
+     * Imposta il valore della proprietà workingAddress.
      * 
      * @param value
      *     allowed object is
@@ -520,7 +520,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the municipalWorkingCode property.
+     * Recupera il valore della proprietà municipalWorkingCode.
      * 
      * @return
      *     possible object is
@@ -532,7 +532,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the municipalWorkingCode property.
+     * Imposta il valore della proprietà municipalWorkingCode.
      * 
      * @param value
      *     allowed object is
@@ -544,7 +544,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the documentState property.
+     * Recupera il valore della proprietà documentState.
      * 
      * @return
      *     possible object is
@@ -556,7 +556,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the documentState property.
+     * Imposta il valore della proprietà documentState.
      * 
      * @param value
      *     allowed object is
@@ -568,7 +568,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the documentNumber property.
+     * Recupera il valore della proprietà documentNumber.
      * 
      * @return
      *     possible object is
@@ -580,7 +580,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the documentNumber property.
+     * Imposta il valore della proprietà documentNumber.
      * 
      * @param value
      *     allowed object is
@@ -592,7 +592,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the municipalBirthCode property.
+     * Recupera il valore della proprietà municipalBirthCode.
      * 
      * @return
      *     possible object is
@@ -604,7 +604,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the municipalBirthCode property.
+     * Imposta il valore della proprietà municipalBirthCode.
      * 
      * @param value
      *     allowed object is
@@ -616,7 +616,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the visaExpiryDate property.
+     * Recupera il valore della proprietà visaExpiryDate.
      * 
      * @return
      *     possible object is
@@ -628,7 +628,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the visaExpiryDate property.
+     * Imposta il valore della proprietà visaExpiryDate.
      * 
      * @param value
      *     allowed object is
@@ -640,7 +640,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the iban property.
+     * Recupera il valore della proprietà iban.
      * 
      * @return
      *     possible object is
@@ -652,7 +652,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the iban property.
+     * Imposta il valore della proprietà iban.
      * 
      * @param value
      *     allowed object is
@@ -664,7 +664,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the documentDate property.
+     * Recupera il valore della proprietà documentDate.
      * 
      * @return
      *     possible object is
@@ -676,7 +676,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the documentDate property.
+     * Imposta il valore della proprietà documentDate.
      * 
      * @param value
      *     allowed object is
@@ -688,7 +688,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the workingTelNumber property.
+     * Recupera il valore della proprietà workingTelNumber.
      * 
      * @return
      *     possible object is
@@ -700,7 +700,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the workingTelNumber property.
+     * Imposta il valore della proprietà workingTelNumber.
      * 
      * @param value
      *     allowed object is
@@ -712,7 +712,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the workingState property.
+     * Recupera il valore della proprietà workingState.
      * 
      * @return
      *     possible object is
@@ -724,7 +724,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the workingState property.
+     * Imposta il valore della proprietà workingState.
      * 
      * @param value
      *     allowed object is
@@ -736,7 +736,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Gets the value of the monthlyPay property.
+     * Recupera il valore della proprietà monthlyPay.
      * 
      * @return
      *     possible object is
@@ -748,7 +748,7 @@ public class ConselCustomerInfo {
     }
 
     /**
-     * Sets the value of the monthlyPay property.
+     * Imposta il valore della proprietà monthlyPay.
      * 
      * @param value
      *     allowed object is

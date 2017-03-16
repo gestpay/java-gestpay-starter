@@ -1,7 +1,23 @@
 <!DOCTYPE web-app PUBLIC
- "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
- "http://java.sun.com/dtd/web-app_2_3.dtd" >
+        "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+        "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-  <display-name>Archetype Created Web Application</display-name>
+    <display-name>The Best Ecommerce Ever</display-name>
+    <servlet>
+        <servlet-name>EncryptServlet</servlet-name>
+        <servlet-class>com.myshop.servlets.EncryptServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>DecryptServlet</servlet-name>
+        <servlet-class>com.myshop.servlets.DecryptServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EncryptServlet</servlet-name>
+        <url-pattern>/pay</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>DecryptServlet</servlet-name>
+        <url-pattern>/response</url-pattern>
+    </servlet-mapping>
 </web-app>

@@ -1,4 +1,4 @@
-package it.gestpay.constants;
+package com.myshop.constants;
 
 /**
  * Created by michelenasti on 14/03/17.
@@ -18,7 +18,7 @@ public interface Constants {
   /**
    * Code for EURO
    */
-  public static final String UIC_CODE = "242";
+  public static final String UIC_CODE_EURO = "242";
 
   /**
    * This prefix will be used for shopTransactionId.

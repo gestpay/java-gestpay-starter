@@ -10,9 +10,9 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for RedItems complex type.
+ * <p>Classe Java per RedItems complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>Il seguente frammento di schema specifica il contenuto previsto contenuto in questa classe.
  * 
  * <pre>
  * &lt;complexType name="RedItems">
@@ -42,7 +42,7 @@ public class RedItems {
     protected List<RedItem> redItem;
 
     /**
-     * Gets the value of the numberOfItems property.
+     * Recupera il valore della proprietà numberOfItems.
      * 
      * @return
      *     possible object is
@@ -54,7 +54,7 @@ public class RedItems {
     }
 
     /**
-     * Sets the value of the numberOfItems property.
+     * Imposta il valore della proprietà numberOfItems.
      * 
      * @param value
      *     allowed object is

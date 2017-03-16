@@ -8,9 +8,9 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for EcommGestpayPaymentDetails complex type.
+ * <p>Classe Java per EcommGestpayPaymentDetails complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>Il seguente frammento di schema specifica il contenuto previsto contenuto in questa classe.
  * 
  * <pre>
  * &lt;complexType name="EcommGestpayPaymentDetails">
@@ -60,7 +60,7 @@ public class EcommGestpayPaymentDetails {
     protected ArrayOfShippingLine shippingLines;
 
     /**
-     * Gets the value of the fraudPrevention property.
+     * Recupera il valore della proprietà fraudPrevention.
      * 
      * @return
      *     possible object is
@@ -72,7 +72,7 @@ public class EcommGestpayPaymentDetails {
     }
 
     /**
-     * Sets the value of the fraudPrevention property.
+     * Imposta il valore della proprietà fraudPrevention.
      * 
      * @param value
      *     allowed object is
@@ -84,7 +84,7 @@ public class EcommGestpayPaymentDetails {
     }
 
     /**
-     * Gets the value of the customerDetail property.
+     * Recupera il valore della proprietà customerDetail.
      * 
      * @return
      *     possible object is
@@ -96,7 +96,7 @@ public class EcommGestpayPaymentDetails {
     }
 
     /**
-     * Sets the value of the customerDetail property.
+     * Imposta il valore della proprietà customerDetail.
      * 
      * @param value
      *     allowed object is
@@ -108,7 +108,7 @@ public class EcommGestpayPaymentDetails {
     }
 
     /**
-     * Gets the value of the shippingAddress property.
+     * Recupera il valore della proprietà shippingAddress.
      * 
      * @return
      *     possible object is
@@ -120,7 +120,7 @@ public class EcommGestpayPaymentDetails {
     }
 
     /**
-     * Sets the value of the shippingAddress property.
+     * Imposta il valore della proprietà shippingAddress.
      * 
      * @param value
      *     allowed object is
@@ -132,7 +132,7 @@ public class EcommGestpayPaymentDetails {
     }
 
     /**
-     * Gets the value of the billingAddress property.
+     * Recupera il valore della proprietà billingAddress.
      * 
      * @return
      *     possible object is
@@ -144,7 +144,7 @@ public class EcommGestpayPaymentDetails {
     }
 
     /**
-     * Sets the value of the billingAddress property.
+     * Imposta il valore della proprietà billingAddress.
      * 
      * @param value
      *     allowed object is
@@ -156,7 +156,7 @@ public class EcommGestpayPaymentDetails {
     }
 
     /**
-     * Gets the value of the productDetails property.
+     * Recupera il valore della proprietà productDetails.
      * 
      * @return
      *     possible object is
@@ -168,7 +168,7 @@ public class EcommGestpayPaymentDetails {
     }
 
     /**
-     * Sets the value of the productDetails property.
+     * Imposta il valore della proprietà productDetails.
      * 
      * @param value
      *     allowed object is
@@ -180,7 +180,7 @@ public class EcommGestpayPaymentDetails {
     }
 
     /**
-     * Gets the value of the discountCodes property.
+     * Recupera il valore della proprietà discountCodes.
      * 
      * @return
      *     possible object is
@@ -192,7 +192,7 @@ public class EcommGestpayPaymentDetails {
     }
 
     /**
-     * Sets the value of the discountCodes property.
+     * Imposta il valore della proprietà discountCodes.
      * 
      * @param value
      *     allowed object is
@@ -204,7 +204,7 @@ public class EcommGestpayPaymentDetails {
     }
 
     /**
-     * Gets the value of the shippingLines property.
+     * Recupera il valore della proprietà shippingLines.
      * 
      * @return
      *     possible object is
@@ -216,7 +216,7 @@ public class EcommGestpayPaymentDetails {
     }
 
     /**
-     * Sets the value of the shippingLines property.
+     * Imposta il valore della proprietà shippingLines.
      * 
      * @param value
      *     allowed object is

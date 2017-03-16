@@ -8,9 +8,9 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for RedItem complex type.
+ * <p>Classe Java per RedItem complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>Il seguente frammento di schema specifica il contenuto previsto contenuto in questa classe.
  * 
  * <pre>
  * &lt;complexType name="RedItem">
@@ -72,7 +72,7 @@ public class RedItem {
     protected String itemShippingComments;
 
     /**
-     * Gets the value of the itemProductCode property.
+     * Recupera il valore della proprietà itemProductCode.
      * 
      * @return
      *     possible object is
@@ -84,7 +84,7 @@ public class RedItem {
     }
 
     /**
-     * Sets the value of the itemProductCode property.
+     * Imposta il valore della proprietà itemProductCode.
      * 
      * @param value
      *     allowed object is
@@ -96,7 +96,7 @@ public class RedItem {
     }
 
     /**
-     * Gets the value of the itemStockKeepingUnit property.
+     * Recupera il valore della proprietà itemStockKeepingUnit.
      * 
      * @return
      *     possible object is
@@ -108,7 +108,7 @@ public class RedItem {
     }
 
     /**
-     * Sets the value of the itemStockKeepingUnit property.
+     * Imposta il valore della proprietà itemStockKeepingUnit.
      * 
      * @param value
      *     allowed object is
@@ -120,7 +120,7 @@ public class RedItem {
     }
 
     /**
-     * Gets the value of the itemDescription property.
+     * Recupera il valore della proprietà itemDescription.
      * 
      * @return
      *     possible object is
@@ -132,7 +132,7 @@ public class RedItem {
     }
 
     /**
-     * Sets the value of the itemDescription property.
+     * Imposta il valore della proprietà itemDescription.
      * 
      * @param value
      *     allowed object is
@@ -144,7 +144,7 @@ public class RedItem {
     }
 
     /**
-     * Gets the value of the itemQuantity property.
+     * Recupera il valore della proprietà itemQuantity.
      * 
      * @return
      *     possible object is
@@ -156,7 +156,7 @@ public class RedItem {
     }
 
     /**
-     * Sets the value of the itemQuantity property.
+     * Imposta il valore della proprietà itemQuantity.
      * 
      * @param value
      *     allowed object is
@@ -168,7 +168,7 @@ public class RedItem {
     }
 
     /**
-     * Gets the value of the itemUnitCost property.
+     * Recupera il valore della proprietà itemUnitCost.
      * 
      * @return
      *     possible object is
@@ -180,7 +180,7 @@ public class RedItem {
     }
 
     /**
-     * Sets the value of the itemUnitCost property.
+     * Imposta il valore della proprietà itemUnitCost.
      * 
      * @param value
      *     allowed object is
@@ -192,7 +192,7 @@ public class RedItem {
     }
 
     /**
-     * Gets the value of the itemTotalCost property.
+     * Recupera il valore della proprietà itemTotalCost.
      * 
      * @return
      *     possible object is
@@ -204,7 +204,7 @@ public class RedItem {
     }
 
     /**
-     * Sets the value of the itemTotalCost property.
+     * Imposta il valore della proprietà itemTotalCost.
      * 
      * @param value
      *     allowed object is
@@ -216,7 +216,7 @@ public class RedItem {
     }
 
     /**
-     * Gets the value of the itemShippingNumber property.
+     * Recupera il valore della proprietà itemShippingNumber.
      * 
      * @return
      *     possible object is
@@ -228,7 +228,7 @@ public class RedItem {
     }
 
     /**
-     * Sets the value of the itemShippingNumber property.
+     * Imposta il valore della proprietà itemShippingNumber.
      * 
      * @param value
      *     allowed object is
@@ -240,7 +240,7 @@ public class RedItem {
     }
 
     /**
-     * Gets the value of the itemGiftMessage property.
+     * Recupera il valore della proprietà itemGiftMessage.
      * 
      * @return
      *     possible object is
@@ -252,7 +252,7 @@ public class RedItem {
     }
 
     /**
-     * Sets the value of the itemGiftMessage property.
+     * Imposta il valore della proprietà itemGiftMessage.
      * 
      * @param value
      *     allowed object is
@@ -264,7 +264,7 @@ public class RedItem {
     }
 
     /**
-     * Gets the value of the itemPartEANNumber property.
+     * Recupera il valore della proprietà itemPartEANNumber.
      * 
      * @return
      *     possible object is
@@ -276,7 +276,7 @@ public class RedItem {
     }
 
     /**
-     * Sets the value of the itemPartEANNumber property.
+     * Imposta il valore della proprietà itemPartEANNumber.
      * 
      * @param value
      *     allowed object is
@@ -288,7 +288,7 @@ public class RedItem {
     }
 
     /**
-     * Gets the value of the itemShippingComments property.
+     * Recupera il valore della proprietà itemShippingComments.
      * 
      * @return
      *     possible object is
@@ -300,7 +300,7 @@ public class RedItem {
     }
 
     /**
-     * Sets the value of the itemShippingComments property.
+     * Imposta il valore della proprietà itemShippingComments.
      * 
      * @param value
      *     allowed object is

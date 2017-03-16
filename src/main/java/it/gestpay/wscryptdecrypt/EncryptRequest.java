@@ -5,7 +5,7 @@ import it.gestpay.wscryptdecrypt.model.*;
 /**
  * Created by michelenasti on 15/03/17.
  */
-public class EncryptObject {
+public class EncryptRequest {
 
   private String shopLogin;
   private String uicCode;

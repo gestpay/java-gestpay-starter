@@ -8,9 +8,9 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for BillingAddress complex type.
+ * <p>Classe Java per BillingAddress complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>Il seguente frammento di schema specifica il contenuto previsto contenuto in questa classe.
  * 
  * <pre>
  * &lt;complexType name="BillingAddress">
@@ -104,7 +104,7 @@ public class BillingAddress {
     protected String stateCode;
 
     /**
-     * Gets the value of the profileID property.
+     * Recupera il valore della proprietà profileID.
      * 
      * @return
      *     possible object is
@@ -116,7 +116,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the profileID property.
+     * Imposta il valore della proprietà profileID.
      * 
      * @param value
      *     allowed object is
@@ -128,7 +128,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the firstName property.
+     * Recupera il valore della proprietà firstName.
      * 
      * @return
      *     possible object is
@@ -140,7 +140,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the firstName property.
+     * Imposta il valore della proprietà firstName.
      * 
      * @param value
      *     allowed object is
@@ -152,7 +152,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the middleName property.
+     * Recupera il valore della proprietà middleName.
      * 
      * @return
      *     possible object is
@@ -164,7 +164,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the middleName property.
+     * Imposta il valore della proprietà middleName.
      * 
      * @param value
      *     allowed object is
@@ -176,7 +176,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the lastname property.
+     * Recupera il valore della proprietà lastname.
      * 
      * @return
      *     possible object is
@@ -188,7 +188,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the lastname property.
+     * Imposta il valore della proprietà lastname.
      * 
      * @param value
      *     allowed object is
@@ -200,7 +200,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the streetNumber property.
+     * Recupera il valore della proprietà streetNumber.
      * 
      * @return
      *     possible object is
@@ -212,7 +212,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the streetNumber property.
+     * Imposta il valore della proprietà streetNumber.
      * 
      * @param value
      *     allowed object is
@@ -224,7 +224,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the streetName property.
+     * Recupera il valore della proprietà streetName.
      * 
      * @return
      *     possible object is
@@ -236,7 +236,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the streetName property.
+     * Imposta il valore della proprietà streetName.
      * 
      * @param value
      *     allowed object is
@@ -248,7 +248,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the streetname2 property.
+     * Recupera il valore della proprietà streetname2.
      * 
      * @return
      *     possible object is
@@ -260,7 +260,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the streetname2 property.
+     * Imposta il valore della proprietà streetname2.
      * 
      * @param value
      *     allowed object is
@@ -272,7 +272,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the houseNumber property.
+     * Recupera il valore della proprietà houseNumber.
      * 
      * @return
      *     possible object is
@@ -284,7 +284,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the houseNumber property.
+     * Imposta il valore della proprietà houseNumber.
      * 
      * @param value
      *     allowed object is
@@ -296,7 +296,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the houseExtention property.
+     * Recupera il valore della proprietà houseExtention.
      * 
      * @return
      *     possible object is
@@ -308,7 +308,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the houseExtention property.
+     * Imposta il valore della proprietà houseExtention.
      * 
      * @param value
      *     allowed object is
@@ -320,7 +320,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the city property.
+     * Recupera il valore della proprietà city.
      * 
      * @return
      *     possible object is
@@ -332,7 +332,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the city property.
+     * Imposta il valore della proprietà city.
      * 
      * @param value
      *     allowed object is
@@ -344,7 +344,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the zipCode property.
+     * Recupera il valore della proprietà zipCode.
      * 
      * @return
      *     possible object is
@@ -356,7 +356,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the zipCode property.
+     * Imposta il valore della proprietà zipCode.
      * 
      * @param value
      *     allowed object is
@@ -368,7 +368,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the state property.
+     * Recupera il valore della proprietà state.
      * 
      * @return
      *     possible object is
@@ -380,7 +380,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the state property.
+     * Imposta il valore della proprietà state.
      * 
      * @param value
      *     allowed object is
@@ -392,7 +392,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the countryCode property.
+     * Recupera il valore della proprietà countryCode.
      * 
      * @return
      *     possible object is
@@ -404,7 +404,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the countryCode property.
+     * Imposta il valore della proprietà countryCode.
      * 
      * @param value
      *     allowed object is
@@ -416,7 +416,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the email property.
+     * Recupera il valore della proprietà email.
      * 
      * @return
      *     possible object is
@@ -428,7 +428,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the email property.
+     * Imposta il valore della proprietà email.
      * 
      * @param value
      *     allowed object is
@@ -440,7 +440,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the primaryPhone property.
+     * Recupera il valore della proprietà primaryPhone.
      * 
      * @return
      *     possible object is
@@ -452,7 +452,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the primaryPhone property.
+     * Imposta il valore della proprietà primaryPhone.
      * 
      * @param value
      *     allowed object is
@@ -464,7 +464,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the secondaryPhone property.
+     * Recupera il valore della proprietà secondaryPhone.
      * 
      * @return
      *     possible object is
@@ -476,7 +476,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the secondaryPhone property.
+     * Imposta il valore della proprietà secondaryPhone.
      * 
      * @param value
      *     allowed object is
@@ -488,7 +488,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the company property.
+     * Recupera il valore della proprietà company.
      * 
      * @return
      *     possible object is
@@ -500,7 +500,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the company property.
+     * Imposta il valore della proprietà company.
      * 
      * @param value
      *     allowed object is
@@ -512,7 +512,7 @@ public class BillingAddress {
     }
 
     /**
-     * Gets the value of the stateCode property.
+     * Recupera il valore della proprietà stateCode.
      * 
      * @return
      *     possible object is
@@ -524,7 +524,7 @@ public class BillingAddress {
     }
 
     /**
-     * Sets the value of the stateCode property.
+     * Imposta il valore della proprietà stateCode.
      * 
      * @param value
      *     allowed object is

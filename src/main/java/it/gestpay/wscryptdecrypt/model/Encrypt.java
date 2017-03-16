@@ -9,9 +9,9 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for anonymous complex type.
+ * <p>Classe Java per anonymous complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>Il seguente frammento di schema specifica il contenuto previsto contenuto in questa classe.
  * 
  * <pre>
  * &lt;complexType>
@@ -131,7 +131,7 @@ public class Encrypt {
     protected EcommGestpayPaymentDetails orderDetails;
 
     /**
-     * Gets the value of the shopLogin property.
+     * Recupera il valore della proprietà shopLogin.
      * 
      * @return
      *     possible object is
@@ -143,7 +143,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the shopLogin property.
+     * Imposta il valore della proprietà shopLogin.
      * 
      * @param value
      *     allowed object is
@@ -155,7 +155,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the uicCode property.
+     * Recupera il valore della proprietà uicCode.
      * 
      * @return
      *     possible object is
@@ -167,7 +167,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the uicCode property.
+     * Imposta il valore della proprietà uicCode.
      * 
      * @param value
      *     allowed object is
@@ -179,7 +179,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the amount property.
+     * Recupera il valore della proprietà amount.
      * 
      * @return
      *     possible object is
@@ -191,7 +191,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the amount property.
+     * Imposta il valore della proprietà amount.
      * 
      * @param value
      *     allowed object is
@@ -203,7 +203,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the shopTransactionId property.
+     * Recupera il valore della proprietà shopTransactionId.
      * 
      * @return
      *     possible object is
@@ -215,7 +215,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the shopTransactionId property.
+     * Imposta il valore della proprietà shopTransactionId.
      * 
      * @param value
      *     allowed object is
@@ -227,7 +227,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the cardNumber property.
+     * Recupera il valore della proprietà cardNumber.
      * 
      * @return
      *     possible object is
@@ -239,7 +239,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the cardNumber property.
+     * Imposta il valore della proprietà cardNumber.
      * 
      * @param value
      *     allowed object is
@@ -251,7 +251,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the expiryMonth property.
+     * Recupera il valore della proprietà expiryMonth.
      * 
      * @return
      *     possible object is
@@ -263,7 +263,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the expiryMonth property.
+     * Imposta il valore della proprietà expiryMonth.
      * 
      * @param value
      *     allowed object is
@@ -275,7 +275,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the expiryYear property.
+     * Recupera il valore della proprietà expiryYear.
      * 
      * @return
      *     possible object is
@@ -287,7 +287,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the expiryYear property.
+     * Imposta il valore della proprietà expiryYear.
      * 
      * @param value
      *     allowed object is
@@ -299,7 +299,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the buyerName property.
+     * Recupera il valore della proprietà buyerName.
      * 
      * @return
      *     possible object is
@@ -311,7 +311,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the buyerName property.
+     * Imposta il valore della proprietà buyerName.
      * 
      * @param value
      *     allowed object is
@@ -323,7 +323,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the buyerEmail property.
+     * Recupera il valore della proprietà buyerEmail.
      * 
      * @return
      *     possible object is
@@ -335,7 +335,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the buyerEmail property.
+     * Imposta il valore della proprietà buyerEmail.
      * 
      * @param value
      *     allowed object is
@@ -347,7 +347,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the languageId property.
+     * Recupera il valore della proprietà languageId.
      * 
      * @return
      *     possible object is
@@ -359,7 +359,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the languageId property.
+     * Imposta il valore della proprietà languageId.
      * 
      * @param value
      *     allowed object is
@@ -371,7 +371,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the cvv property.
+     * Recupera il valore della proprietà cvv.
      * 
      * @return
      *     possible object is
@@ -383,7 +383,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the cvv property.
+     * Imposta il valore della proprietà cvv.
      * 
      * @param value
      *     allowed object is
@@ -395,7 +395,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the customInfo property.
+     * Recupera il valore della proprietà customInfo.
      * 
      * @return
      *     possible object is
@@ -407,7 +407,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the customInfo property.
+     * Imposta il valore della proprietà customInfo.
      * 
      * @param value
      *     allowed object is
@@ -419,7 +419,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the requestToken property.
+     * Recupera il valore della proprietà requestToken.
      * 
      * @return
      *     possible object is
@@ -431,7 +431,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the requestToken property.
+     * Imposta il valore della proprietà requestToken.
      * 
      * @param value
      *     allowed object is
@@ -443,7 +443,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the ppSellerProtection property.
+     * Recupera il valore della proprietà ppSellerProtection.
      * 
      * @return
      *     possible object is
@@ -455,7 +455,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the ppSellerProtection property.
+     * Imposta il valore della proprietà ppSellerProtection.
      * 
      * @param value
      *     allowed object is
@@ -467,7 +467,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the shippingDetails property.
+     * Recupera il valore della proprietà shippingDetails.
      * 
      * @return
      *     possible object is
@@ -479,7 +479,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the shippingDetails property.
+     * Imposta il valore della proprietà shippingDetails.
      * 
      * @param value
      *     allowed object is
@@ -491,7 +491,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the paymentTypes property.
+     * Recupera il valore della proprietà paymentTypes.
      * 
      * @return
      *     possible object is
@@ -503,7 +503,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the paymentTypes property.
+     * Imposta il valore della proprietà paymentTypes.
      * 
      * @param value
      *     allowed object is
@@ -515,7 +515,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the paymentTypeDetail property.
+     * Recupera il valore della proprietà paymentTypeDetail.
      * 
      * @return
      *     possible object is
@@ -527,7 +527,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the paymentTypeDetail property.
+     * Imposta il valore della proprietà paymentTypeDetail.
      * 
      * @param value
      *     allowed object is
@@ -539,7 +539,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the redFraudPrevention property.
+     * Recupera il valore della proprietà redFraudPrevention.
      * 
      * @return
      *     possible object is
@@ -551,7 +551,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the redFraudPrevention property.
+     * Imposta il valore della proprietà redFraudPrevention.
      * 
      * @param value
      *     allowed object is
@@ -563,7 +563,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the redCustomerInfo property.
+     * Recupera il valore della proprietà redCustomerInfo.
      * 
      * @return
      *     possible object is
@@ -575,7 +575,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the redCustomerInfo property.
+     * Imposta il valore della proprietà redCustomerInfo.
      * 
      * @param value
      *     allowed object is
@@ -587,7 +587,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the redShippingInfo property.
+     * Recupera il valore della proprietà redShippingInfo.
      * 
      * @return
      *     possible object is
@@ -599,7 +599,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the redShippingInfo property.
+     * Imposta il valore della proprietà redShippingInfo.
      * 
      * @param value
      *     allowed object is
@@ -611,7 +611,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the redBillingInfo property.
+     * Recupera il valore della proprietà redBillingInfo.
      * 
      * @return
      *     possible object is
@@ -623,7 +623,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the redBillingInfo property.
+     * Imposta il valore della proprietà redBillingInfo.
      * 
      * @param value
      *     allowed object is
@@ -635,7 +635,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the redCustomerData property.
+     * Recupera il valore della proprietà redCustomerData.
      * 
      * @return
      *     possible object is
@@ -647,7 +647,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the redCustomerData property.
+     * Imposta il valore della proprietà redCustomerData.
      * 
      * @param value
      *     allowed object is
@@ -659,7 +659,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the redCustomInfo property.
+     * Recupera il valore della proprietà redCustomInfo.
      * 
      * @return
      *     possible object is
@@ -671,7 +671,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the redCustomInfo property.
+     * Imposta il valore della proprietà redCustomInfo.
      * 
      * @param value
      *     allowed object is
@@ -683,7 +683,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the redItems property.
+     * Recupera il valore della proprietà redItems.
      * 
      * @return
      *     possible object is
@@ -695,7 +695,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the redItems property.
+     * Imposta il valore della proprietà redItems.
      * 
      * @param value
      *     allowed object is
@@ -707,7 +707,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the conselMerchantPro property.
+     * Recupera il valore della proprietà conselMerchantPro.
      * 
      * @return
      *     possible object is
@@ -719,7 +719,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the conselMerchantPro property.
+     * Imposta il valore della proprietà conselMerchantPro.
      * 
      * @param value
      *     allowed object is
@@ -731,7 +731,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the conselCustomerInfo property.
+     * Recupera il valore della proprietà conselCustomerInfo.
      * 
      * @return
      *     possible object is
@@ -743,7 +743,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the conselCustomerInfo property.
+     * Imposta il valore della proprietà conselCustomerInfo.
      * 
      * @param value
      *     allowed object is
@@ -755,7 +755,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the payPalBillingAgreementDescription property.
+     * Recupera il valore della proprietà payPalBillingAgreementDescription.
      * 
      * @return
      *     possible object is
@@ -767,7 +767,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the payPalBillingAgreementDescription property.
+     * Imposta il valore della proprietà payPalBillingAgreementDescription.
      * 
      * @param value
      *     allowed object is
@@ -779,7 +779,7 @@ public class Encrypt {
     }
 
     /**
-     * Gets the value of the orderDetails property.
+     * Recupera il valore della proprietà orderDetails.
      * 
      * @return
      *     possible object is
@@ -791,7 +791,7 @@ public class Encrypt {
     }
 
     /**
-     * Sets the value of the orderDetails property.
+     * Imposta il valore della proprietà orderDetails.
      * 
      * @param value
      *     allowed object is

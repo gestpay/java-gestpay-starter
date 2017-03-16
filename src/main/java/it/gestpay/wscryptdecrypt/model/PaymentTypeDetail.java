@@ -8,9 +8,9 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for PaymentTypeDetail complex type.
+ * <p>Classe Java per PaymentTypeDetail complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>Il seguente frammento di schema specifica il contenuto previsto contenuto in questa classe.
  * 
  * <pre>
  * &lt;complexType name="PaymentTypeDetail">
@@ -40,7 +40,7 @@ public class PaymentTypeDetail {
     protected String idealBankCode;
 
     /**
-     * Gets the value of the myBankBankCode property.
+     * Recupera il valore della proprietà myBankBankCode.
      * 
      * @return
      *     possible object is
@@ -52,7 +52,7 @@ public class PaymentTypeDetail {
     }
 
     /**
-     * Sets the value of the myBankBankCode property.
+     * Imposta il valore della proprietà myBankBankCode.
      * 
      * @param value
      *     allowed object is
@@ -64,7 +64,7 @@ public class PaymentTypeDetail {
     }
 
     /**
-     * Gets the value of the idealBankCode property.
+     * Recupera il valore della proprietà idealBankCode.
      * 
      * @return
      *     possible object is
@@ -76,7 +76,7 @@ public class PaymentTypeDetail {
     }
 
     /**
-     * Sets the value of the idealBankCode property.
+     * Imposta il valore della proprietà idealBankCode.
      * 
      * @param value
      *     allowed object is

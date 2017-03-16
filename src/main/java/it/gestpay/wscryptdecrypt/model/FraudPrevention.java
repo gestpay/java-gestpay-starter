@@ -8,9 +8,9 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for FraudPrevention complex type.
+ * <p>Classe Java per FraudPrevention complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>Il seguente frammento di schema specifica il contenuto previsto contenuto in questa classe.
  * 
  * <pre>
  * &lt;complexType name="FraudPrevention">
@@ -64,7 +64,7 @@ public class FraudPrevention {
     protected String vendorName;
 
     /**
-     * Gets the value of the submitForReview property.
+     * Recupera il valore della proprietà submitForReview.
      * 
      * @return
      *     possible object is
@@ -76,7 +76,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Sets the value of the submitForReview property.
+     * Imposta il valore della proprietà submitForReview.
      * 
      * @param value
      *     allowed object is
@@ -88,7 +88,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Gets the value of the orderDateTime property.
+     * Recupera il valore della proprietà orderDateTime.
      * 
      * @return
      *     possible object is
@@ -100,7 +100,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Sets the value of the orderDateTime property.
+     * Imposta il valore della proprietà orderDateTime.
      * 
      * @param value
      *     allowed object is
@@ -112,7 +112,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Gets the value of the orderNote property.
+     * Recupera il valore della proprietà orderNote.
      * 
      * @return
      *     possible object is
@@ -124,7 +124,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Sets the value of the orderNote property.
+     * Imposta il valore della proprietà orderNote.
      * 
      * @param value
      *     allowed object is
@@ -136,7 +136,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Gets the value of the source property.
+     * Recupera il valore della proprietà source.
      * 
      * @return
      *     possible object is
@@ -148,7 +148,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Sets the value of the source property.
+     * Imposta il valore della proprietà source.
      * 
      * @param value
      *     allowed object is
@@ -160,7 +160,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Gets the value of the submissionReason property.
+     * Recupera il valore della proprietà submissionReason.
      * 
      * @return
      *     possible object is
@@ -172,7 +172,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Sets the value of the submissionReason property.
+     * Imposta il valore della proprietà submissionReason.
      * 
      * @param value
      *     allowed object is
@@ -184,7 +184,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Gets the value of the beaconSessionID property.
+     * Recupera il valore della proprietà beaconSessionID.
      * 
      * @return
      *     possible object is
@@ -196,7 +196,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Sets the value of the beaconSessionID property.
+     * Imposta il valore della proprietà beaconSessionID.
      * 
      * @param value
      *     allowed object is
@@ -208,7 +208,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Gets the value of the vendorID property.
+     * Recupera il valore della proprietà vendorID.
      * 
      * @return
      *     possible object is
@@ -220,7 +220,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Sets the value of the vendorID property.
+     * Imposta il valore della proprietà vendorID.
      * 
      * @param value
      *     allowed object is
@@ -232,7 +232,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Gets the value of the vendorName property.
+     * Recupera il valore della proprietà vendorName.
      * 
      * @return
      *     possible object is
@@ -244,7 +244,7 @@ public class FraudPrevention {
     }
 
     /**
-     * Sets the value of the vendorName property.
+     * Imposta il valore della proprietà vendorName.
      * 
      * @param value
      *     allowed object is
