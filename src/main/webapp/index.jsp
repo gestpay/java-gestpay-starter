@@ -1,3 +1,8 @@
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/functions" prefix="fn" %>
+<c:set var="req" value="${pageContext.request}" />
+<c:set var="url">${req.requestURL}</c:set>
+<c:set var="uri" value="${req.requestURI}" />
 <html>
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.2/css/bulma.min.css">
@@ -29,7 +34,7 @@
                 <div class="card-content">
                     <div class="media">
                         <div class="media-content">
-                            <form action="/pay" method="POST">
+                            <form action="${req.contextPath}/pay" method="POST">
                                 <input type="hidden" name="item" value="two pineapples">
                                 <input type="hidden" name="price" value="15">
                                 <input class="button is-primary is-clearfix is-pulled-right" type="submit" value="Buy" />
@@ -55,7 +60,7 @@
                 <div class="card-content">
                     <div class="media">
                         <div class="media-content">
-                            <form action="/pay" method="POST">
+                            <form action="${req.contextPath}/pay" method="POST">
                                 <input type="hidden" name="item" value="Church on Lake">
                                 <input type="hidden" name="price" value="75">
                                 <input class="button is-primary is-clearfix is-pulled-right" type="submit" value="Buy" />
@@ -81,7 +86,7 @@
                 <div class="card-content">
                     <div class="media">
                         <div class="media-content">
-                            <form action="/pay" method="POST">
+                            <form action="${req.contextPath}/pay" method="POST">
                                 <input type="hidden" name="item" value="Old Computer" />
                                 <input type="hidden" name="price" value="20" />
                                 <input class="button is-primary is-clearfix is-pulled-right" type="submit" value="Buy" />

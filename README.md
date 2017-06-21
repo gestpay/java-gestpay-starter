@@ -25,14 +25,11 @@ This will create all model classes needed to talk to Gestpay.
 ### What to do before running
 
 - configure Gestpay to accept your IP address
-- configure `success_url` and `failure_url`: if your server is at `http://yourshop.com`, use
-for both values `http://yourshop.com/response`.
-
-You can read more about configuring Gestpay in the [super quick start
-guide](http://docs.gestpay.it/gs/super-quick-start-guide.html).
-
-For local development we suggest you to use [`ngrok`](https://ngrok.com), that will create a web url reachable from Gestpay. This
-way you can test payments easily.
+- configure `success_url` and `failure_url`: if your server is at `http://yourshop.com/APP_NAME/`, use
+for both values `http://yourshop.com/APP_NAME/response`.
+- for local development, you can use `http://localhost:8080/<APP_NAME>/` in success url and failure url, assuming that your server
+answers on port `8080` and the application is deployed in `<APP_NAME>`.
+- change in `com.myshop.constants.Constants` the value of `SHOP_LOGIN` with your shop code.
 
 ### How to run
 
