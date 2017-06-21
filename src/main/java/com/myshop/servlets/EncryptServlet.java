@@ -57,7 +57,6 @@ public class EncryptServlet extends HttpServlet {
       req.getRequestDispatcher("/error.jsp").forward(req, resp);
       logger.info("request routed to error.jsp (something went wrong)");
     } else {
-
       req.getRequestDispatcher("/pay.jsp").forward(req, resp);
       logger.info("request routed to pay.jsp");
     }

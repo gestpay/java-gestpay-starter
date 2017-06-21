@@ -46,12 +46,7 @@ public class DecryptServlet extends HttpServlet {
 
     req.setAttribute("decryptResponse", decryptResponse);
 
-    if (!"0".equals(decryptResponse.getErrorCode())) {
-      req.getRequestDispatcher("/error.jsp").forward(req, resp);
-      logger.info("redirecting to error.jsp, something went wrong");
-    } else {
-      req.getRequestDispatcher("/response.jsp").forward(req, resp);
-      logger.info("redirecting to response.jsp");
-    }
+    req.getRequestDispatcher("/response.jsp").forward(req, resp);
+    logger.info("redirecting to response.jsp");
   }
 }
